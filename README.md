@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about software development and constantly l
 ---
 
 ## 📊 Most Used Languages
-<img src="https://github-readme-stats-gilt-delta-59.vercel.app/api/top-langs/?username=shayaanali7&theme=dark&hide_border=true&layout=compact&card_width=445&include_all_commits=true&count_private=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats-gilt-delta-59.vercel.app/api/top-langs/?username=shayaanali7&theme=dark&hide_border=true&layout=compact&card_width=445&include_all_commits=true&count_private=true&v=1" alt="Most Used Languages" />
 
 ---
 
